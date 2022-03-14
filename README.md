@@ -3,8 +3,7 @@
 ## Lucas Silveira
 - 🔭 Estudo Desenvolvimento Web Full Stack pela Growdev!
 - 👯 Gosto de passar meu tempo olhando séries, vídeos de curiosidades, games e música ( metal com certeza )
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
+- 💬 Programação é uma novidade para mim e estou gostando bastante!
 - ⚡ Sou formado em Design Gráfico e informática básica!
 
 
