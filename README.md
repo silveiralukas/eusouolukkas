@@ -1,19 +1,19 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Lucas Silveira
+## Lucas R. Silveira
 - 🔭 Estudo Desenvolvimento Web Full Stack pela Growdev!
-- 👯 Gosto de passar meu tempo olhando séries, vídeos de curiosidades, games e música ( metal com certeza )
-- 💬 Programação é uma novidade para mim e estou gostando bastante!
+- 👯 Gosto de passar meu tempo olhando séries, vídeos de curiosidades, games e música
+- 💬 Novato na área da programação ( e estou curtindo bastante )
 - ⚡ Sou formado em Design Gráfico e informática básica!
 
 
 ### Um pouco mais sobre mim!  
 
-Sou deficiente físico de nascença, mas isso não me impediu de fazer o que gosto e de aprender; sou bem animado e engajado em tudo o que pego para fazer ( algum hobbie, trabalho, etc... ), gaúcho, gamer, toco violão/guitarra/baixo desde meus 13 anos e uso o instrumento e a música como uma forma de terapia!
+Sou deficiente físico de nascença, mas isso não me impediu de fazer o que gosto e de aprender; sou bem animado e engajado em tudo o que pego para fazer ( algum hobbie, trabalho, etc... ), gaúcho, curto alguns games, toco violão/guitarra/baixo desde meus 13 anos e uso o instrumento e a música como uma forma de terapia!
 
-### Linguagens de programação favoritas :scroll:
+### Skills favoritas até o momento :scroll:
 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
 
 
