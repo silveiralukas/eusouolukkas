@@ -1,14 +1,14 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Lucas R. Silveira
+## Olá! Eu sou o Lucas Silveira 🖐️
+
 - 🔭 Estudo Desenvolvimento Web Full Stack pela Growdev!
-- 👯 Gosto de passar meu tempo olhando séries, vídeos de curiosidades, games e música
-- 💬 Novato na área da programação ( e estou curtindo bastante )
+- 👯 Gosto de passar meu tempo assistindo séries, vídeos de curiosidades e ouvir música!
 - ⚡ Sou formado em Design Gráfico e informática básica!
 
 ### Hobbies:
 
-<img height="32" width="32" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />&nbsp; 
+<img align="center" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 <img height="32" width="32" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />&nbsp; 
 <img height="32" width="32" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />&nbsp; 
 <img height="32" width="32" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp; 
