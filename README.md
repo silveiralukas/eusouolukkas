@@ -60,4 +60,5 @@ Sou deficiente físico de nascença, mas isso não me impediu de fazer o que gos
 <img align="center" alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> 
 
 <a href="https://www.linkedin.com/in/lucas-roennau-silveira-b50b05214/">Meu LinkedIn</a>
+<br/>
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJNsvPnRwrJNKMHRbCCgRRLzMflzJSNZjZNXfPsSxClfDpVdzhZJzKDptCFRGFXNrCVvdRL">Contato</a>
