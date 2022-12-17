@@ -6,8 +6,10 @@
 - 👯 Gosto de passar meu tempo assistindo séries, vídeos de curiosidades e ouvir música!
 - ⚡ Sou formado em Design Gráfico e informática básica!
 
-![Silveira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouolukkas&theme=blue-green)
 ![Silveira GitHub stats](https://github-readme-stats.vercel.app/api?username=eusouolukkas&theme=blue-green)
+<br/>
+![Silveira GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouolukkas&theme=blue-green)
+
 
 
 ### Hobbies:
