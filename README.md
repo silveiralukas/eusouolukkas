@@ -3,7 +3,7 @@
 ## Olá! Eu sou o Lucas Silveira 🖐️
 
 - 🔭 Formado em Desenvolvimento Web Full Stack pela Growdev, informática pela Styllus e Design Gráfico pela Escola Melhor Opção!
-- 👯 Gosto de passar meu tempo assistindo séries e filmes, ouvindo música, estudando e as vezes jogar alguma coisa!
+- 👯 Gosto de assistir séries, ouvir música, estudar, tocar guitarra e as vezes jogar alguma coisa!
 
 ![Silveira GitHub stats](https://github-readme-stats.vercel.app/api?username=eusouolukkas&theme=blue-green)
 <br/>
